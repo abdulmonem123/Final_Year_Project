@@ -11,14 +11,18 @@ Nowadays,  traditional  online  shopping  stores  having  some  problems  in  bu
 4. Substance Painter.
 5. Unity.
 
-# Pictures
+# PlatForm
+Android
 
+# Screen Shots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93064489-ff780280-f690-11ea-9dd4-2f8e69964463.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064492-00109900-f691-11ea-98c4-0c3da96c9341.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064495-0141c600-f691-11ea-97d1-93b84a05107b.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064498-01da5c80-f691-11ea-9721-b2a7aa1455c5.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064499-0272f300-f691-11ea-897c-6337d8bb9b2d.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064501-030b8980-f691-11ea-943a-b336d1e1f57a.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064504-03a42000-f691-11ea-8f6f-0d222f41b002.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93064506-043cb680-f691-11ea-8813-317744ecfc0a.JPG" width="800" height="700" />
+</p>
 
-![Fyp1](https://user-images.githubusercontent.com/68784974/93064489-ff780280-f690-11ea-9dd4-2f8e69964463.JPG)
-![Fyp2](https://user-images.githubusercontent.com/68784974/93064492-00109900-f691-11ea-98c4-0c3da96c9341.JPG)
-![Fyp3](https://user-images.githubusercontent.com/68784974/93064495-0141c600-f691-11ea-97d1-93b84a05107b.JPG)
-![Fyp4](https://user-images.githubusercontent.com/68784974/93064498-01da5c80-f691-11ea-9721-b2a7aa1455c5.JPG)
-![Fyp5](https://user-images.githubusercontent.com/68784974/93064499-0272f300-f691-11ea-897c-6337d8bb9b2d.JPG)
-![Fyp6](https://user-images.githubusercontent.com/68784974/93064501-030b8980-f691-11ea-943a-b336d1e1f57a.JPG)
-![Fyp7](https://user-images.githubusercontent.com/68784974/93064504-03a42000-f691-11ea-8f6f-0d222f41b002.JPG)
-![Fyp8](https://user-images.githubusercontent.com/68784974/93064506-043cb680-f691-11ea-8813-317744ecfc0a.JPG)
