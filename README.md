@@ -16,7 +16,10 @@ Android
 
 # Screen Shots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68784974/93064489-ff780280-f690-11ea-9dd4-2f8e69964463.JPG" width="800" height="700" />
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/68784974/93064489-ff780280-f690-11ea-9dd4-2f8e69964463.JPG" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/68784974/93064492-00109900-f691-11ea-98c4-0c3da96c9341.JPG" width="800" height="700" />
 <img src="https://user-images.githubusercontent.com/68784974/93064495-0141c600-f691-11ea-97d1-93b84a05107b.JPG" width="800" height="700" />
 <img src="https://user-images.githubusercontent.com/68784974/93064498-01da5c80-f691-11ea-9721-b2a7aa1455c5.JPG" width="800" height="700" />
@@ -24,5 +27,3 @@ Android
 <img src="https://user-images.githubusercontent.com/68784974/93064501-030b8980-f691-11ea-943a-b336d1e1f57a.JPG" width="800" height="700" />
 <img src="https://user-images.githubusercontent.com/68784974/93064504-03a42000-f691-11ea-8f6f-0d222f41b002.JPG" width="800" height="700" />
 <img src="https://user-images.githubusercontent.com/68784974/93064506-043cb680-f691-11ea-8813-317744ecfc0a.JPG" width="800" height="700" />
-</p>
-
