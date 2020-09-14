@@ -12,12 +12,11 @@ Nowadays,  traditional  online  shopping  stores  having  some  problems  in  bu
 5. Unity.
 
 # PlatForm
-Android
+- Android
 
 # Screen Shots
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68784974/93064489-ff780280-f690-11ea-9dd4-2f8e69964463.JPG" width="300" height="500" />
-
 <img src="https://user-images.githubusercontent.com/68784974/93064492-00109900-f691-11ea-98c4-0c3da96c9341.JPG" width="300" height="500" />
 </p>
 <p align="center">
@@ -32,4 +31,10 @@ Android
 <img src="https://user-images.githubusercontent.com/68784974/93064504-03a42000-f691-11ea-8f6f-0d222f41b002.JPG" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/68784974/93064506-043cb680-f691-11ea-8813-317744ecfc0a.JPG" width="300" height="500" />
 </p>
-
+<p align="center">
+<img src="" width="300" height="500" />
+<img src="" width="300" height="500" />
+<img src="" width="300" height="500" />
+<img src="" width="300" height="500" />
+<img src="" width="300" height="500" />
+</p>
